@@ -96,7 +96,7 @@ Follwing technologies have been used at the core of this application to make it 
 
 ### Advancement
 
-> - This website should be responsive on all kind of screens.
+> - Once opened, it doesn't close by clicking on the icon
 
 <br><br>
 <!-- ................................................................................................................................. -->
