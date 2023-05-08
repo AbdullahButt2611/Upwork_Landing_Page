@@ -96,7 +96,7 @@ Follwing technologies have been used at the core of this application to make it 
 
 ### Advancement
 
-> - Once opened, it doesn't close by clicking on the icon
+> - The Website is not responsive on all kind of screens
 
 <br><br>
 <!-- ................................................................................................................................. -->
